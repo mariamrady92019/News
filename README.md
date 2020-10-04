@@ -5,12 +5,13 @@ native_api
 - for view a non limited sources and each source has no limited news 
 
 ### tools: ###
-- new api/it is a rest api
+- news api/it is a rest api
 - retrofit (librart to connect with server ) 
 - gson (lib to convert json to string/objects)
 - rebo pojo generator ( lib to generate models from respons )
 - tap layout
-- recycler views 
+- recycler view
+- mvc arch pattern
 
 
 ### screen shots ###
